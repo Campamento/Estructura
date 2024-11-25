@@ -21,6 +21,7 @@ public class EcEspoch {
         System.out.println ("Informacion de los estudiantes:");
     for (Estudiante e : estudiantes){
     e.mostrarInfo();
+        System.out.println("Bienvenidos estudiantes");
 }
     }
 }
